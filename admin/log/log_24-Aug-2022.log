@@ -1,0 +1,83 @@
+************** Start Log For Day : '2022-08-24 10:33:14am'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 10:33:14am'**********
+************** Start Log For Day : '2022-08-24 10:33:33am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('7','2022-08-24','tea','1200','4')
+************** END Log For Day : '2022-08-24 10:33:33am'**********
+
+delete from tblexpense where ID='154'
+
+************** Start Log For Day : '2022-08-24 10:33:53am'**********
+update tbluser set FullName ='Jatin Sharma', MobileNumber='9810619701' where ID='7'
+************** END Log For Day : '2022-08-24 10:33:53am'**********
+
+
+************** Start Log For Day : '2022-08-24 10:47:52am'**********
+select ID from tbluser where  Email='mohit@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 10:47:52am'**********
+************** Start Log For Day : '2022-08-24 10:48:05am'**********
+select ID from tbluser where  Email='mohit@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 10:48:05am'**********
+************** Start Log For Day : '2022-08-24 10:48:11am'**********
+select ID from tbluser where  Email='mohit@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-24 10:48:11am'**********
+************** Start Log For Day : '2022-08-24 10:54:21am'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 10:54:21am'**********
+************** Start Log For Day : '2022-08-24 11:01:05am'**********
+insert into tbluser(FullName, MobileNumber, Email,  Password) value('Admin', '9811186701', 'admin@gmail.com', 'e10adc3949ba59abbe56e057f20f883e' )
+************** END Log For Day : '2022-08-24 11:01:05am'**********
+************** Start Log For Day : '2022-08-24 11:02:59am'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:02:59am'**********
+************** Start Log For Day : '2022-08-24 11:04:34am'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:04:34am'**********
+************** Start Log For Day : '2022-08-24 11:04:47am'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:04:47am'**********
+************** Start Log For Day : '2022-08-24 11:17:57am'**********
+insert into tbluser(FullName, MobileNumber, Email,  Password) value('Admin', '9811186701', 'admin@gmail.com', 'e10adc3949ba59abbe56e057f20f883e' )
+************** END Log For Day : '2022-08-24 11:17:57am'**********
+************** Start Log For Day : '2022-08-24 11:18:13am'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:18:13am'**********
+************** Start Log For Day : '2022-08-24 11:40:21am'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:40:21am'**********
+************** Start Log For Day : '2022-08-24 11:43:48am'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:43:48am'**********
+************** Start Log For Day : '2022-08-24 11:55:08am'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:55:08am'**********
+************** Start Log For Day : '2022-08-24 12:02:41pm'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 12:02:41pm'**********
+************** Start Log For Day : '2022-08-24 12:03:15pm'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 12:03:15pm'**********
+************** Start Log For Day : '2022-08-24 12:03:31pm'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 12:03:31pm'**********
+************** Start Log For Day : '2022-08-24 12:03:59pm'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 12:03:59pm'**********
+************** Start Log For Day : '2022-08-24 12:05:32pm'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 12:05:32pm'**********
+************** Start Log For Day : '2022-08-24 12:05:48pm'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 12:05:48pm'**********
+************** Start Log For Day : '2022-08-24 12:08:25pm'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 12:08:25pm'**********
+************** Start Log For Day : '2022-08-24 12:08:36pm'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 12:08:36pm'**********
+************** Start Log For Day : '2022-08-24 12:09:17pm'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 12:09:17pm'**********
+************** Start Log For Day : '2022-08-24 12:09:48pm'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 12:09:48pm'**********

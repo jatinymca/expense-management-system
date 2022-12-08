@@ -1,0 +1,70 @@
+************** Start Log For Day : '2022-08-24 10:33:14am'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 10:33:14am'**********
+************** Start Log For Day : '2022-08-24 10:33:33am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('7','2022-08-24','tea','1200','4')
+************** END Log For Day : '2022-08-24 10:33:33am'**********
+
+delete from tblexpense where ID='154'
+
+************** Start Log For Day : '2022-08-24 10:33:53am'**********
+update tbluser set FullName ='Jatin Sharma', MobileNumber='9810619701' where ID='7'
+************** END Log For Day : '2022-08-24 10:33:53am'**********
+
+
+************** Start Log For Day : '2022-08-24 10:47:52am'**********
+select ID from tbluser where  Email='mohit@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 10:47:52am'**********
+************** Start Log For Day : '2022-08-24 10:48:05am'**********
+select ID from tbluser where  Email='mohit@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 10:48:05am'**********
+************** Start Log For Day : '2022-08-24 10:48:11am'**********
+select ID from tbluser where  Email='mohit@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-24 10:48:11am'**********
+************** Start Log For Day : '2022-08-24 10:54:21am'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 10:54:21am'**********
+************** Start Log For Day : '2022-08-24 11:01:05am'**********
+insert into tbluser(FullName, MobileNumber, Email,  Password) value('Admin', '9811186701', 'admin@gmail.com', 'e10adc3949ba59abbe56e057f20f883e' )
+************** END Log For Day : '2022-08-24 11:01:05am'**********
+************** Start Log For Day : '2022-08-24 11:02:59am'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:02:59am'**********
+************** Start Log For Day : '2022-08-24 11:04:34am'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:04:34am'**********
+************** Start Log For Day : '2022-08-24 11:04:47am'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:04:47am'**********
+************** Start Log For Day : '2022-08-24 11:32:26am'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:32:26am'**********
+************** Start Log For Day : '2022-08-24 11:42:26am'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:42:26am'**********
+************** Start Log For Day : '2022-08-24 11:55:19am'**********
+select ID from tbluser where  Email='jatin@123' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:55:19am'**********
+************** Start Log For Day : '2022-08-24 11:55:21am'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 11:55:21am'**********
+************** Start Log For Day : '2022-08-24 11:56:32am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('7','2022-08-24','servers','100','2')
+************** END Log For Day : '2022-08-24 11:56:32am'**********
+
+************** Start Log For Day : '2022-08-24 11:57:27am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('7','2022-08-23','servers','1000','2')
+************** END Log For Day : '2022-08-24 11:57:27am'**********
+
+************** Start Log For Day : '2022-08-24 11:58:47am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('7','2022-08-15','servers','1200','2')
+************** END Log For Day : '2022-08-24 11:58:47am'**********
+
+************** Start Log For Day : '2022-08-24 11:59:36am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('7','2022-08-01','servers','500','4')
+************** END Log For Day : '2022-08-24 11:59:36am'**********
+
+************** Start Log For Day : '2022-08-24 12:15:47pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-24 12:15:47pm'**********
+

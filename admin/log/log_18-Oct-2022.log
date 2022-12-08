@@ -1,0 +1,5 @@
+************** Start Log For Day : '2022-10-18 06:35:51pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-10-18 06:35:51pm'**********
+
+

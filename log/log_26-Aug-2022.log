@@ -1,0 +1,128 @@
+************** Start Log For Day : '2022-08-26 11:13:02am'**********
+select ID from tbluser where  Email='s@gmail.com' && Password='8485ad8cdb6438da81a7edcb422668e0' 
+************** END Log For Day : '2022-08-26 11:13:02am'**********
+************** Start Log For Day : '2022-08-26 11:14:45am'**********
+select ID from tbluser where  Email='s@gmail.com' && Password='8485ad8cdb6438da81a7edcb422668e0' 
+************** END Log For Day : '2022-08-26 11:14:45am'**********
+************** Start Log For Day : '2022-08-26 11:15:09am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('16','2022-08-26','copy','40','1')
+************** END Log For Day : '2022-08-26 11:15:09am'**********
+
+************** Start Log For Day : '2022-08-26 11:15:23am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('16','2022-08-25','copy','40','1')
+************** END Log For Day : '2022-08-26 11:15:23am'**********
+
+************** Start Log For Day : '2022-08-26 11:15:38am'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-25' and '2022-08-26')&& (UserId='16') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-26 11:15:38am'**********
+************** Start Log For Day : '2022-08-26 11:17:05am'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-01' and '2022-08-26')&& (UserId='16') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-26 11:17:05am'**********
+************** Start Log For Day : '2022-08-26 11:28:53am'**********
+select ID from tbluser where  Email='a@gmail.com' && Password='8485ad8cdb6438da81a7edcb422668e0' 
+************** END Log For Day : '2022-08-26 11:28:53am'**********
+************** Start Log For Day : '2022-08-26 11:28:57am'**********
+select ID from tbluser where  Email='a@gmail.com' && Password='8485ad8cdb6438da81a7edcb422668e0' 
+************** END Log For Day : '2022-08-26 11:28:57am'**********
+************** Start Log For Day : '2022-08-26 11:29:02am'**********
+select ID from tbluser where  Email='s@gmail.com' && Password='8485ad8cdb6438da81a7edcb422668e0' 
+************** END Log For Day : '2022-08-26 11:29:02am'**********
+************** Start Log For Day : '2022-08-26 11:29:17am'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-07-01' and '2022-08-26') && (UserId='16') group by  ExpenseDate, ExpenseItem,month(ExpenseDate),year(ExpenseDate)
+************** END Log For Day : '2022-08-26 11:29:17am'**********
+************** Start Log For Day : '2022-08-26 12:45:47pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-26 12:45:47pm'**********
+
+************** Start Log For Day : '2022-08-26 12:46:29pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-01' and '2022-08-26')&& (UserId='7') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-26 12:46:29pm'**********
+************** Start Log For Day : '2022-08-26 05:02:56pm'**********
+select ID from tbluser where  Email='a@gmail.com' && Password='8485ad8cdb6438da81a7edcb422668e0' 
+************** END Log For Day : '2022-08-26 05:02:56pm'**********
+************** Start Log For Day : '2022-08-26 05:03:00pm'**********
+select ID from tbluser where  Email='s@gmail.com' && Password='8485ad8cdb6438da81a7edcb422668e0' 
+************** END Log For Day : '2022-08-26 05:03:00pm'**********
+************** Start Log For Day : '2022-08-26 05:03:21pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('16','2021-01-01','copy','200','2')
+************** END Log For Day : '2022-08-26 05:03:21pm'**********
+
+************** Start Log For Day : '2022-08-26 05:03:31pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('16','2021-01-01','copyTea','200','2')
+************** END Log For Day : '2022-08-26 05:03:31pm'**********
+
+************** Start Log For Day : '2022-08-26 05:03:41pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('16','2021-01-20','copyTea','200','2')
+************** END Log For Day : '2022-08-26 05:03:41pm'**********
+
+************** Start Log For Day : '2022-08-26 05:03:54pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('16','2021-01-25','copyTea','200','2')
+************** END Log For Day : '2022-08-26 05:03:54pm'**********
+
+************** Start Log For Day : '2022-08-26 05:04:08pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('16','2021-01-10','tea','200','2')
+************** END Log For Day : '2022-08-26 05:04:08pm'**********
+
+************** Start Log For Day : '2022-08-26 05:04:50pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('16','2021-05-23','Server','20000','2')
+************** END Log For Day : '2022-08-26 05:04:50pm'**********
+
+************** Start Log For Day : '2022-08-26 05:04:58pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('16','2021-05-23','Server','2000','2')
+************** END Log For Day : '2022-08-26 05:04:58pm'**********
+
+************** Start Log For Day : '2022-08-26 05:05:13pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('16','2021-05-23','PC','20000','2')
+************** END Log For Day : '2022-08-26 05:05:13pm'**********
+
+************** Start Log For Day : '2022-08-26 05:05:43pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('16','2021-09-23','Server','1000000','2')
+************** END Log For Day : '2022-08-26 05:05:43pm'**********
+
+************** Start Log For Day : '2022-08-26 05:15:14pm'**********
+select ID from tbluser where  Email='akashverma@vert-age.com' && Password='401384210913f7da4367137682b50762' 
+************** END Log For Day : '2022-08-26 05:15:14pm'**********
+************** Start Log For Day : '2022-08-26 05:16:42pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-01-26' and '2022-08-26') && (UserId='15') 
+************** END Log For Day : '2022-08-26 05:16:42pm'**********
+************** Start Log For Day : '2022-08-26 05:16:54pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-01-01' and '2022-08-26') && (UserId='15') 
+************** END Log For Day : '2022-08-26 05:16:54pm'**********
+
+
+************** Start Log For Day : '2022-08-26 05:20:27pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='c',`ExpenseCost`= '100000',`Quantity`='500'  WHERE  `ID`= '44' 
+************** END Log For Day : '2022-08-26 05:20:27pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='c',`ExpenseCost`= '100000',`Quantity`='500'  WHERE  `ID`= '44' 
+************** Start Log For Day : '2022-08-26 05:20:39pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='c',`ExpenseCost`= '1000',`Quantity`='500'  WHERE  `ID`= '44' 
+************** END Log For Day : '2022-08-26 05:20:39pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='c',`ExpenseCost`= '1000',`Quantity`='500'  WHERE  `ID`= '44' 
+
+************** Start Log For Day : '2022-08-26 05:21:47pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('15','2022-08-26','avavavav','50121','10')
+************** END Log For Day : '2022-08-26 05:21:47pm'**********
+
+
+************** Start Log For Day : '2022-08-26 05:22:27pm'**********
+update tbluser set FullName ='Aakash Ver', MobileNumber='6395079456' where ID='15'
+************** END Log For Day : '2022-08-26 05:22:27pm'**********
+************** Start Log For Day : '2022-08-26 05:22:37pm'**********
+update tbluser set FullName ='Aakash Vermaa', MobileNumber='6395079456' where ID='15'
+************** END Log For Day : '2022-08-26 05:22:37pm'**********
+************** Start Log For Day : '2022-08-26 05:22:48pm'**********
+update tbluser set FullName ='Aakash ', MobileNumber='6395079456' where ID='15'
+************** END Log For Day : '2022-08-26 05:22:48pm'**********
+************** Start Log For Day : '2022-08-26 05:22:56pm'**********
+update tbluser set FullName ='Aakash Verma', MobileNumber='6395079456' where ID='15'
+************** END Log For Day : '2022-08-26 05:22:56pm'**********
+************** Start Log For Day : '2022-08-26 05:23:09pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-25' and '2022-08-25')&& (UserId='15') 
+************** END Log For Day : '2022-08-26 05:23:09pm'**********
+
+************** Start Log For Day : '2022-08-26 06:13:56pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-26 06:13:56pm'**********
+************** Start Log For Day : '2022-08-26 06:19:52pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-26 06:19:52pm'**********

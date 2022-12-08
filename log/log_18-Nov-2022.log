@@ -1,0 +1,87 @@
+************** Start Log For Day : '2022-11-18 10:49:01am'**********
+************** END Log For Day : '2022-11-18 10:49:01am'**********
+************** Start Log For Day : '2022-11-18 10:49:06am'**********
+************** END Log For Day : '2022-11-18 10:49:06am'**********
+************** Start Log For Day : '2022-11-18 10:49:08am'**********
+************** END Log For Day : '2022-11-18 10:49:08am'**********
+************** Start Log For Day : '2022-11-18 10:49:11am'**********
+************** END Log For Day : '2022-11-18 10:49:11am'**********
+************** Start Log For Day : '2022-11-18 10:49:11am'**********
+select ID from tbluser where  Email='accounts@vert-age.com' && Password='b84862d690dfe8e71d9129b65213fd99' 
+************** END Log For Day : '2022-11-18 10:49:11am'**********
+************** Start Log For Day : '2022-11-18 10:49:31am'**********
+************** END Log For Day : '2022-11-18 10:49:31am'**********
+************** Start Log For Day : '2022-11-18 10:51:58am'**********
+************** END Log For Day : '2022-11-18 10:51:58am'**********
+************** Start Log For Day : '2022-11-18 10:52:50am'**********
+************** END Log For Day : '2022-11-18 10:52:50am'**********
+
+************** Start Log For Day : '2022-11-18 10:52:56am'**********
+************** END Log For Day : '2022-11-18 10:52:56am'**********
+************** Start Log For Day : '2022-11-18 10:52:56am'**********
+delete from tblexpense where ID='34'
+************** END Log For Day : '2022-11-18 10:52:56am'**********
+delete from tblexpense where ID='34'
+************** Start Log For Day : '2022-11-18 10:52:59am'**********
+************** END Log For Day : '2022-11-18 10:52:59am'**********
+
+************** Start Log For Day : '2022-11-18 10:53:03am'**********
+************** END Log For Day : '2022-11-18 10:53:03am'**********
+************** Start Log For Day : '2022-11-18 10:53:17am'**********
+************** END Log For Day : '2022-11-18 10:53:17am'**********
+************** Start Log For Day : '2022-11-18 10:53:19am'**********
+************** END Log For Day : '2022-11-18 10:53:19am'**********
+************** Start Log For Day : '2022-11-18 10:56:23am'**********
+************** END Log For Day : '2022-11-18 10:56:23am'**********
+************** Start Log For Day : '2022-11-18 10:59:20am'**********
+************** END Log For Day : '2022-11-18 10:59:20am'**********
+************** Start Log For Day : '2022-11-18 11:00:20am'**********
+************** END Log For Day : '2022-11-18 11:00:20am'**********
+
+************** Start Log For Day : '2022-11-18 11:00:23am'**********
+************** END Log For Day : '2022-11-18 11:00:23am'**********
+************** Start Log For Day : '2022-11-18 11:01:38am'**********
+************** END Log For Day : '2022-11-18 11:01:38am'**********
+************** Start Log For Day : '2022-11-18 11:02:13am'**********
+************** END Log For Day : '2022-11-18 11:02:13am'**********
+************** Start Log For Day : '2022-11-18 11:02:15am'**********
+************** END Log For Day : '2022-11-18 11:02:15am'**********
+
+************** Start Log For Day : '2022-11-18 11:06:29am'**********
+************** END Log For Day : '2022-11-18 11:06:29am'**********
+************** Start Log For Day : '2022-11-18 11:07:11am'**********
+************** END Log For Day : '2022-11-18 11:07:11am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,Opening_balance,ExpenseCost,Closing_balance,Quantity) value('17','2022-10-14','Salary(Except Priyanka) Offrole','101478','85333','16145','1')
+************** Start Log For Day : '2022-11-18 11:07:19am'**********
+************** END Log For Day : '2022-11-18 11:07:19am'**********
+
+************** Start Log For Day : '2022-11-18 11:07:48am'**********
+************** END Log For Day : '2022-11-18 11:07:48am'**********
+************** Start Log For Day : '2022-11-18 11:08:33am'**********
+************** END Log For Day : '2022-11-18 11:08:33am'**********
+
+************** Start Log For Day : '2022-11-18 11:08:39am'**********
+************** END Log For Day : '2022-11-18 11:08:39am'**********
+************** Start Log For Day : '2022-11-18 11:19:31am'**********
+************** END Log For Day : '2022-11-18 11:19:31am'**********
+************** Start Log For Day : '2022-11-18 12:02:02pm'**********
+************** END Log For Day : '2022-11-18 12:02:02pm'**********
+************** Start Log For Day : '2022-11-18 12:02:02pm'**********
+select ID from tbluser where  Email='officialmohit108@gmail.com' && Password='f33753f94fce27741f11bf4615058ea9' 
+************** END Log For Day : '2022-11-18 12:02:02pm'**********
+************** Start Log For Day : '2022-11-18 02:04:58pm'**********
+************** END Log For Day : '2022-11-18 02:04:58pm'**********
+************** Start Log For Day : '2022-11-18 02:05:01pm'**********
+************** END Log For Day : '2022-11-18 02:05:01pm'**********
+************** Start Log For Day : '2022-11-18 02:05:01pm'**********
+select ID from tbluser where  Email='officialmohit108@gmail.com' and MobileNumber='7295802669' 
+************** END Log For Day : '2022-11-18 02:05:01pm'**********
+************** Start Log For Day : '2022-11-18 03:15:22pm'**********
+************** END Log For Day : '2022-11-18 03:15:22pm'**********
+************** Start Log For Day : '2022-11-18 03:28:23pm'**********
+************** END Log For Day : '2022-11-18 03:28:23pm'**********
+************** Start Log For Day : '2022-11-18 03:28:27pm'**********
+************** END Log For Day : '2022-11-18 03:28:27pm'**********
+************** Start Log For Day : '2022-11-18 03:28:27pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-11-18 03:28:27pm'**********

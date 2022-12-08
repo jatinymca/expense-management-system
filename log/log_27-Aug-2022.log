@@ -1,0 +1,61 @@
+************** Start Log For Day : '2022-08-27 01:43:07pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-27 01:43:07pm'**********
+************** Start Log For Day : '2022-08-27 01:48:45pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-01-01' and '2022-08-27') && (UserId='7') 
+************** END Log For Day : '2022-08-27 01:48:45pm'**********
+************** Start Log For Day : '2022-08-27 02:03:58pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('7','2022-08-27','','25','1')
+************** END Log For Day : '2022-08-27 02:03:58pm'**********
+
+************** Start Log For Day : '2022-08-27 02:06:27pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('7','2022-08-27','glass','22','2')
+************** END Log For Day : '2022-08-27 02:06:27pm'**********
+
+delete from tblexpense where ID='68'
+
+************** Start Log For Day : '2022-08-27 02:45:08pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e123c66612b35440e6d9a85cabe966e1' 
+************** END Log For Day : '2022-08-27 02:45:08pm'**********
+************** Start Log For Day : '2022-08-27 02:45:15pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-27 02:45:15pm'**********
+************** Start Log For Day : '2022-08-27 02:51:55pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-27 02:51:55pm'**********
+************** Start Log For Day : '2022-08-27 02:52:06pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('7','2022-08-27','notebook','1','1')
+************** END Log For Day : '2022-08-27 02:52:06pm'**********
+
+************** Start Log For Day : '2022-08-27 02:52:29pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('7','2022-08-27','bottle','2','2')
+************** END Log For Day : '2022-08-27 02:52:29pm'**********
+
+************** Start Log For Day : '2022-08-27 02:57:55pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-27 02:57:55pm'**********
+************** Start Log For Day : '2022-08-27 02:58:36pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,ExpenseCost,Quantity) value('7','2022-08-27','server','2000','10')
+************** END Log For Day : '2022-08-27 02:58:36pm'**********
+
+************** Start Log For Day : '2022-08-27 03:00:54pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-01' and '2022-08-27') && (UserId='7') 
+************** END Log For Day : '2022-08-27 03:00:54pm'**********
+************** Start Log For Day : '2022-08-27 03:01:42pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-27' and '2022-08-27') && (UserId='7') 
+************** END Log For Day : '2022-08-27 03:01:42pm'**********
+************** Start Log For Day : '2022-08-27 03:11:35pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-27' and '2022-08-27') && (UserId='7') 
+************** END Log For Day : '2022-08-27 03:11:35pm'**********
+************** Start Log For Day : '2022-08-27 03:12:49pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-27' and '2022-08-27') && (UserId='7') 
+************** END Log For Day : '2022-08-27 03:12:49pm'**********
+************** Start Log For Day : '2022-08-27 03:12:55pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-27' and '2022-08-27') && (UserId='7') 
+************** END Log For Day : '2022-08-27 03:12:55pm'**********
+************** Start Log For Day : '2022-08-27 03:13:02pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-27' and '2022-08-27') && (UserId='7') 
+************** END Log For Day : '2022-08-27 03:13:02pm'**********
+************** Start Log For Day : '2022-08-27 03:13:09pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-27' and '2022-08-27') && (UserId='7') 
+************** END Log For Day : '2022-08-27 03:13:09pm'**********

@@ -1,0 +1,266 @@
+************** Start Log For Day : '2022-08-25 10:35:27am'**********
+select ID from tbluser where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 10:35:27am'**********
+delete from tblexpense where ID='0'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+************** Start Log For Day : '2022-08-25 11:22:15am'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-01' and '2022-08-25')&& (UserId='') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 11:22:15am'**********
+
+
+************** Start Log For Day : '2022-08-25 11:29:56am'**********
+insert into tbluser(FullName, MobileNumber, Email,  Password) value('Admin', '9810619701', 'admin@gmail.com', 'e10adc3949ba59abbe56e057f20f883e' )
+************** END Log For Day : '2022-08-25 11:29:56am'**********
+************** Start Log For Day : '2022-08-25 11:30:04am'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 11:30:04am'**********
+************** Start Log For Day : '2022-08-25 11:30:12am'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 11:30:12am'**********
+************** Start Log For Day : '2022-08-25 11:32:00am'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 11:32:00am'**********
+************** Start Log For Day : '2022-08-25 11:32:24am'**********
+insert into tbladmin(FullName, MobileNumber, Email,  Password) value('Admin', '9811186701', 'admin@gmail.com', 'e10adc3949ba59abbe56e057f20f883e' )
+************** END Log For Day : '2022-08-25 11:32:24am'**********
+************** Start Log For Day : '2022-08-25 11:32:28am'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 11:32:28am'**********
+
+
+************** Start Log For Day : '2022-08-25 11:35:49am'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 11:35:49am'**********
+************** Start Log For Day : '2022-08-25 11:39:02am'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 11:39:02am'**********
+
+
+
+
+************** Start Log For Day : '2022-08-25 11:45:56am'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 11:45:56am'**********
+
+
+************** Start Log For Day : '2022-08-25 11:46:38am'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 11:46:38am'**********
+
+
+************** Start Log For Day : '2022-08-25 11:55:22am'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 11:55:22am'**********
+************** Start Log For Day : '2022-08-25 11:56:31am'**********
+select ID from tbladmin where  Email='admin@gmail.com' and MobileNumber='9811186701' 
+************** END Log For Day : '2022-08-25 11:56:31am'**********
+************** Start Log For Day : '2022-08-25 11:56:40am'**********
+update tbladmin set Password='25d55ad283aa400af464c76d713c07ad'  where  Email='admin@gmail.com' && MobileNumber='9811186701' 
+************** END Log For Day : '2022-08-25 11:56:40am'**********
+************** Start Log For Day : '2022-08-25 11:56:44am'**********
+select ID from tbladmin where  Email='jatin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 11:56:44am'**********
+************** Start Log For Day : '2022-08-25 11:56:52am'**********
+select ID from tbladmin where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 11:56:52am'**********
+************** Start Log For Day : '2022-08-25 11:57:07am'**********
+select ID from tbladmin where  Email='jatin@gmail.com' and MobileNumber='9811186701' 
+************** END Log For Day : '2022-08-25 11:57:07am'**********
+************** Start Log For Day : '2022-08-25 11:57:31am'**********
+select ID from tbladmin where  Email='jatin@gmail.com' and MobileNumber='9811186701' 
+************** END Log For Day : '2022-08-25 11:57:31am'**********
+************** Start Log For Day : '2022-08-25 11:57:48am'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 11:57:48am'**********
+************** Start Log For Day : '2022-08-25 11:57:54am'**********
+select ID from tbladmin where  Email='admin@gmail.com' and MobileNumber='9811186701' 
+************** END Log For Day : '2022-08-25 11:57:54am'**********
+************** Start Log For Day : '2022-08-25 11:58:37am'**********
+update tbladmin set Password='e10adc3949ba59abbe56e057f20f883e'  where  Email='admin@gmail.com' && MobileNumber='9811186701' 
+************** END Log For Day : '2022-08-25 11:58:37am'**********
+************** Start Log For Day : '2022-08-25 11:58:55am'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 11:58:55am'**********
+************** Start Log For Day : '2022-08-25 11:59:11am'**********
+select ID from tbladmin where  Email='admin@gmail.com' and MobileNumber='9811186701' 
+************** END Log For Day : '2022-08-25 11:59:11am'**********
+************** Start Log For Day : '2022-08-25 11:59:19am'**********
+update tbladmin set Password='25d55ad283aa400af464c76d713c07ad'  where  Email='admin@gmail.com' && MobileNumber='9811186701' 
+************** END Log For Day : '2022-08-25 11:59:19am'**********
+************** Start Log For Day : '2022-08-25 11:59:26am'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 11:59:26am'**********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+************** Start Log For Day : '2022-08-25 12:21:17pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 12:21:17pm'**********
+
+
+************** Start Log For Day : '2022-08-25 12:27:09pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 12:27:09pm'**********
+************** Start Log For Day : '2022-08-25 12:27:43pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 12:27:43pm'**********
+
+
+
+************** Start Log For Day : '2022-08-25 12:41:22pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-25 12:41:22pm'**********
+************** Start Log For Day : '2022-08-25 12:41:30pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 12:41:30pm'**********
+
+************** Start Log For Day : '2022-08-25 12:41:47pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-25' and '2022-08-25')&& (UserId='7') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 12:41:47pm'**********
+************** Start Log For Day : '2022-08-25 12:42:16pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-01' and '2022-08-25')&& (UserId='7') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 12:42:16pm'**********
+************** Start Log For Day : '2022-08-25 12:43:47pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 12:43:47pm'**********
+
+************** Start Log For Day : '2022-08-25 12:44:29pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-07-06' and '2022-08-25')&& (UserId='7') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 12:44:29pm'**********
+
+************** Start Log For Day : '2022-08-25 12:46:20pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2021-12-01' and '2022-08-25')&& (UserId='7') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 12:46:20pm'**********
+************** Start Log For Day : '2022-08-25 12:46:53pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-25' and '2022-08-25')&& (UserId='7') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 12:46:53pm'**********
+
+************** Start Log For Day : '2022-08-25 12:47:05pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-25' and '2022-08-25')&& (UserId='7') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 12:47:05pm'**********
+************** Start Log For Day : '2022-08-25 02:00:55pm'**********
+update tbladmin set FullName ='Admin', MobileNumber='9810619701'  '
+************** END Log For Day : '2022-08-25 02:00:55pm'**********
+************** Start Log For Day : '2022-08-25 02:01:15pm'**********
+update tbladmin set FullName ='Admin', MobileNumber='9810619701'  '
+************** END Log For Day : '2022-08-25 02:01:15pm'**********
+************** Start Log For Day : '2022-08-25 02:01:23pm'**********
+update tbladmin set FullName ='Admin', MobileNumber='9810619701'  '
+************** END Log For Day : '2022-08-25 02:01:23pm'**********
+************** Start Log For Day : '2022-08-25 02:01:55pm'**********
+update tbladmin set FullName ='Admin', MobileNumber='9810619701'  '
+************** END Log For Day : '2022-08-25 02:01:55pm'**********
+************** Start Log For Day : '2022-08-25 02:02:02pm'**********
+update tbladmin set FullName ='Admin', MobileNumber='9810619701'  '
+************** END Log For Day : '2022-08-25 02:02:02pm'**********
+************** Start Log For Day : '2022-08-25 02:02:03pm'**********
+update tbladmin set FullName ='Admin', MobileNumber='9811186701'  '
+************** END Log For Day : '2022-08-25 02:02:03pm'**********
+************** Start Log For Day : '2022-08-25 02:08:50pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-25' and '2022-08-25')&& (UserId='7') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 02:08:50pm'**********
+************** Start Log For Day : '2022-08-25 02:09:06pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-25' and '2022-08-25')&& (UserId='2') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 02:09:06pm'**********
+************** Start Log For Day : '2022-08-25 02:12:09pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 02:12:09pm'**********
+
+************** Start Log For Day : '2022-08-25 02:12:48pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-23' and '2022-08-25')&& (UserId='2') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 02:12:48pm'**********
+************** Start Log For Day : '2022-08-25 02:13:01pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-23' and '2022-08-25')&& (UserId='7') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 02:13:01pm'**********
+************** Start Log For Day : '2022-08-25 02:15:28pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-25' and '2022-08-25')&& (UserId='7') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 02:15:28pm'**********
+************** Start Log For Day : '2022-08-25 02:16:11pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-07-01' and '2022-08-31') && (UserId='2') group by  ExpenseDate, ExpenseItem,month(ExpenseDate),year(ExpenseDate)
+************** END Log For Day : '2022-08-25 02:16:11pm'**********
+************** Start Log For Day : '2022-08-25 02:16:21pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 02:16:21pm'**********
+************** Start Log For Day : '2022-08-25 02:16:34pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-07-01' and '2022-08-25') && (UserId='2') group by  ExpenseDate, ExpenseItem,month(ExpenseDate),year(ExpenseDate)
+************** END Log For Day : '2022-08-25 02:16:34pm'**********
+************** Start Log For Day : '2022-08-25 02:17:48pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 02:17:48pm'**********
+************** Start Log For Day : '2022-08-25 02:18:02pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-07-01' and '2022-08-25') && (UserId='2') group by  ExpenseDate, ExpenseItem,month(ExpenseDate),year(ExpenseDate)
+************** END Log For Day : '2022-08-25 02:18:02pm'**********
+************** Start Log For Day : '2022-08-25 02:18:17pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 02:18:17pm'**********
+************** Start Log For Day : '2022-08-25 02:18:27pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-01' and '2022-08-25') && (UserId='7') group by  ExpenseDate, ExpenseItem,month(ExpenseDate),year(ExpenseDate)
+************** END Log For Day : '2022-08-25 02:18:27pm'**********
+************** Start Log For Day : '2022-08-25 02:18:32pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 02:18:32pm'**********
+************** Start Log For Day : '2022-08-25 02:18:43pm'**********
+SELECT ExpenseDate,ExpenseItem,ExpenseCost,Quantity FROM `tblexpense` where (ExpenseDate BETWEEN '2022-08-01' and '2022-08-25')&& (UserId='2') group by ExpenseDate, ExpenseItem
+************** END Log For Day : '2022-08-25 02:18:43pm'**********
+************** Start Log For Day : '2022-08-25 02:20:57pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-25' and '2022-08-25') && (UserId='7') group by  ExpenseDate, ExpenseItem,month(ExpenseDate),year(ExpenseDate)
+************** END Log For Day : '2022-08-25 02:20:57pm'**********
+************** Start Log For Day : '2022-08-25 02:21:03pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 02:21:03pm'**********
+************** Start Log For Day : '2022-08-25 02:21:12pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-25' and '2022-08-25') && (UserId='2') group by  ExpenseDate, ExpenseItem,month(ExpenseDate),year(ExpenseDate)
+************** END Log For Day : '2022-08-25 02:21:12pm'**********
+************** Start Log For Day : '2022-08-25 02:22:35pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-08-25 02:22:35pm'**********

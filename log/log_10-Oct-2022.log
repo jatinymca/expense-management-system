@@ -1,0 +1,36 @@
+************** Start Log For Day : '2022-10-10 03:49:41pm'**********
+************** END Log For Day : '2022-10-10 03:49:41pm'**********
+************** Start Log For Day : '2022-10-10 03:49:55pm'**********
+************** END Log For Day : '2022-10-10 03:49:55pm'**********
+************** Start Log For Day : '2022-10-10 03:49:55pm'**********
+select ID from tbluser where  Email='accounts@vert-age.com' && Password='b84862d690dfe8e71d9129b65213fd99' 
+************** END Log For Day : '2022-10-10 03:49:55pm'**********
+************** Start Log For Day : '2022-10-10 03:50:00pm'**********
+************** END Log For Day : '2022-10-10 03:50:00pm'**********
+************** Start Log For Day : '2022-10-10 03:50:03pm'**********
+************** END Log For Day : '2022-10-10 03:50:03pm'**********
+************** Start Log For Day : '2022-10-10 03:50:09pm'**********
+************** END Log For Day : '2022-10-10 03:50:09pm'**********
+************** Start Log For Day : '2022-10-10 03:50:09pm'**********
+UPDATE `add_money` SET `Money`='19500' WHERE (UserId='17')
+************** END Log For Day : '2022-10-10 03:50:09pm'**********
+************** Start Log For Day : '2022-10-10 03:50:10pm'**********
+************** END Log For Day : '2022-10-10 03:50:10pm'**********
+
+************** Start Log For Day : '2022-10-10 03:51:03pm'**********
+************** END Log For Day : '2022-10-10 03:51:03pm'**********
+************** Start Log For Day : '2022-10-10 03:51:03pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity,Opening_balance,Closing_balance, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-10-01' and '2022-10-10') && (UserId='17') 
+************** END Log For Day : '2022-10-10 03:51:03pm'**********
+************** Start Log For Day : '2022-10-10 03:51:25pm'**********
+************** END Log For Day : '2022-10-10 03:51:25pm'**********
+
+************** Start Log For Day : '2022-10-10 03:51:34pm'**********
+************** END Log For Day : '2022-10-10 03:51:34pm'**********
+************** Start Log For Day : '2022-10-10 03:51:50pm'**********
+************** END Log For Day : '2022-10-10 03:51:50pm'**********
+************** Start Log For Day : '2022-10-10 03:51:50pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity,Opening_balance,Closing_balance, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-09-11' and '2022-10-10') && (UserId='17') 
+************** END Log For Day : '2022-10-10 03:51:50pm'**********
+************** Start Log For Day : '2022-10-10 06:54:30pm'**********
+************** END Log For Day : '2022-10-10 06:54:30pm'**********

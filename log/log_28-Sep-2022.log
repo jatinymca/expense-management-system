@@ -1,0 +1,98 @@
+************** Start Log For Day : '2022-09-28 11:05:33am'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-09-28 11:05:33am'**********
+
+delete from tblexpense where ID='35'
+
+delete from tblexpense where ID='37'
+
+
+************** Start Log For Day : '2022-09-28 11:06:04am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,Opening_balance,ExpenseCost,Closing_balance,Quantity) value('7','2022-09-28','pen','2000','500','1500','1')
+************** END Log For Day : '2022-09-28 11:06:04am'**********
+
+************** Start Log For Day : '2022-09-28 11:06:15am'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='pen',`ExpenseCost`= '600',`Quantity`='1',`Closing_balance`='1400'  WHERE  `ID`= '38' 
+************** END Log For Day : '2022-09-28 11:06:15am'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='pen',`ExpenseCost`= '600',`Quantity`='1',`Closing_balance`='1400'  WHERE  `ID`= '38' 
+************** Start Log For Day : '2022-09-28 11:06:23am'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='pen',`ExpenseCost`= '400',`Quantity`='1',`Closing_balance`='1600'  WHERE  `ID`= '38' 
+************** END Log For Day : '2022-09-28 11:06:23am'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='pen',`ExpenseCost`= '400',`Quantity`='1',`Closing_balance`='1600'  WHERE  `ID`= '38' 
+************** Start Log For Day : '2022-09-28 11:06:32am'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity,Opening_balance,Closing_balance, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-09-28' and '2022-09-28') && (UserId='7') 
+************** END Log For Day : '2022-09-28 11:06:32am'**********
+
+************** Start Log For Day : '2022-09-28 11:13:49am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,Opening_balance,ExpenseCost,Closing_balance,Quantity) value('7','2022-09-28','mouse',' 1600','250','1350','1')
+************** END Log For Day : '2022-09-28 11:13:49am'**********
+
+
+************** Start Log For Day : '2022-09-28 11:14:39am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,Opening_balance,ExpenseCost,Closing_balance,Quantity) value('7','2022-09-27','notebook','1350','55','1295','1')
+************** END Log For Day : '2022-09-28 11:14:39am'**********
+
+************** Start Log For Day : '2022-09-28 11:17:35am'**********
+
+************** END Log For Day : '2022-09-28 11:17:35am'**********
+
+************** Start Log For Day : '2022-09-28 11:17:37am'**********
+
+************** END Log For Day : '2022-09-28 11:17:37am'**********
+************** Start Log For Day : '2022-09-28 11:17:48am'**********
+
+************** END Log For Day : '2022-09-28 11:17:48am'**********
+************** Start Log For Day : '2022-09-28 11:17:48am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,Opening_balance,ExpenseCost,Closing_balance,Quantity) value('7','2022-09-24','pen','1295','44','1251','1')
+************** END Log For Day : '2022-09-28 11:17:48am'**********
+************** Start Log For Day : '2022-09-28 11:17:49am'**********
+
+************** END Log For Day : '2022-09-28 11:17:49am'**********
+
+************** Start Log For Day : '2022-09-28 11:21:05am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,Opening_balance,ExpenseCost,Closing_balance,Quantity) value('7','2022-09-28','notebook','1251','60','1191','1')
+************** END Log For Day : '2022-09-28 11:21:05am'**********
+
+************** Start Log For Day : '2022-09-28 11:27:27am'**********
+************** END Log For Day : '2022-09-28 11:27:27am'**********
+
+************** Start Log For Day : '2022-09-28 11:27:28am'**********
+************** END Log For Day : '2022-09-28 11:27:28am'**********
+
+************** Start Log For Day : '2022-09-28 11:27:28am'**********
+************** END Log For Day : '2022-09-28 11:27:28am'**********
+
+************** Start Log For Day : '2022-09-28 11:27:28am'**********
+************** END Log For Day : '2022-09-28 11:27:28am'**********
+
+************** Start Log For Day : '2022-09-28 11:27:29am'**********
+************** END Log For Day : '2022-09-28 11:27:29am'**********
+
+************** Start Log For Day : '2022-09-28 11:27:29am'**********
+************** END Log For Day : '2022-09-28 11:27:29am'**********
+
+************** Start Log For Day : '2022-09-28 11:27:29am'**********
+************** END Log For Day : '2022-09-28 11:27:29am'**********
+
+************** Start Log For Day : '2022-09-28 11:27:29am'**********
+************** END Log For Day : '2022-09-28 11:27:29am'**********
+
+************** Start Log For Day : '2022-09-28 11:27:29am'**********
+************** END Log For Day : '2022-09-28 11:27:29am'**********
+
+************** Start Log For Day : '2022-09-28 11:27:29am'**********
+************** END Log For Day : '2022-09-28 11:27:29am'**********
+
+************** Start Log For Day : '2022-09-28 11:27:30am'**********
+************** END Log For Day : '2022-09-28 11:27:30am'**********
+
+************** Start Log For Day : '2022-09-28 11:27:32am'**********
+************** END Log For Day : '2022-09-28 11:27:32am'**********
+************** Start Log For Day : '2022-09-28 11:27:42am'**********
+************** END Log For Day : '2022-09-28 11:27:42am'**********
+************** Start Log For Day : '2022-09-28 11:30:02am'**********
+************** END Log For Day : '2022-09-28 11:30:02am'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,Opening_balance,ExpenseCost,Closing_balance,Quantity) value('7','2022-09-28','notebook','1191','120','1071','1')
+************** Start Log For Day : '2022-09-28 11:30:03am'**********
+************** END Log For Day : '2022-09-28 11:30:03am'**********
+

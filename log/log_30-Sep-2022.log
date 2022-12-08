@@ -1,0 +1,68 @@
+************** Start Log For Day : '2022-09-30 11:00:06am'**********
+************** END Log For Day : '2022-09-30 11:00:06am'**********
+************** Start Log For Day : '2022-09-30 11:00:12am'**********
+************** END Log For Day : '2022-09-30 11:00:12am'**********
+************** Start Log For Day : '2022-09-30 11:00:12am'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-09-30 11:00:12am'**********
+************** Start Log For Day : '2022-09-30 11:00:16am'**********
+************** END Log For Day : '2022-09-30 11:00:16am'**********
+
+************** Start Log For Day : '2022-09-30 12:40:35pm'**********
+************** END Log For Day : '2022-09-30 12:40:35pm'**********
+************** Start Log For Day : '2022-09-30 12:40:35pm'**********
+delete from tblexpense where ID='45'
+************** END Log For Day : '2022-09-30 12:40:35pm'**********
+delete from tblexpense where ID='45'
+************** Start Log For Day : '2022-09-30 12:40:36pm'**********
+************** END Log For Day : '2022-09-30 12:40:36pm'**********
+
+************** Start Log For Day : '2022-09-30 12:40:49pm'**********
+************** END Log For Day : '2022-09-30 12:40:49pm'**********
+************** Start Log For Day : '2022-09-30 12:40:49pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='pen',`ExpenseCost`= '43',`Quantity`='1',`Closing_balance`='1852'  WHERE  `ID`= '41' 
+************** END Log For Day : '2022-09-30 12:40:49pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='pen',`ExpenseCost`= '43',`Quantity`='1',`Closing_balance`='1852'  WHERE  `ID`= '41' 
+************** Start Log For Day : '2022-09-30 12:41:32pm'**********
+************** END Log For Day : '2022-09-30 12:41:32pm'**********
+************** Start Log For Day : '2022-09-30 12:41:32pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='pen',`ExpenseCost`= '43',`Quantity`='1',`Closing_balance`='1852'  WHERE  `ID`= '41' 
+************** END Log For Day : '2022-09-30 12:41:32pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='pen',`ExpenseCost`= '43',`Quantity`='1',`Closing_balance`='1852'  WHERE  `ID`= '41' 
+************** Start Log For Day : '2022-09-30 12:51:03pm'**********
+************** END Log For Day : '2022-09-30 12:51:03pm'**********
+************** Start Log For Day : '2022-09-30 12:51:03pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity,Opening_balance,Closing_balance, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-09-02' and '2022-09-30') && (UserId='7') 
+************** END Log For Day : '2022-09-30 12:51:03pm'**********
+************** Start Log For Day : '2022-09-30 01:32:41pm'**********
+************** END Log For Day : '2022-09-30 01:32:41pm'**********
+************** Start Log For Day : '2022-09-30 01:32:41pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity,Opening_balance,Closing_balance, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-09-02' and '2022-09-30') && (UserId='7') 
+************** END Log For Day : '2022-09-30 01:32:41pm'**********
+************** Start Log For Day : '2022-09-30 01:33:13pm'**********
+************** END Log For Day : '2022-09-30 01:33:13pm'**********
+
+************** Start Log For Day : '2022-09-30 01:52:22pm'**********
+************** END Log For Day : '2022-09-30 01:52:22pm'**********
+
+************** Start Log For Day : '2022-09-30 01:59:22pm'**********
+************** END Log For Day : '2022-09-30 01:59:22pm'**********
+************** Start Log For Day : '2022-09-30 01:59:22pm'**********
+delete from tblexpense where ID='46'
+************** END Log For Day : '2022-09-30 01:59:22pm'**********
+delete from tblexpense where ID='46'
+************** Start Log For Day : '2022-09-30 01:59:25pm'**********
+************** END Log For Day : '2022-09-30 01:59:25pm'**********
+
+************** Start Log For Day : '2022-09-30 04:29:22pm'**********
+************** END Log For Day : '2022-09-30 04:29:22pm'**********
+
+************** Start Log For Day : '2022-09-30 04:37:28pm'**********
+************** END Log For Day : '2022-09-30 04:37:28pm'**********
+
+************** Start Log For Day : '2022-09-30 04:37:43pm'**********
+************** END Log For Day : '2022-09-30 04:37:43pm'**********
+
+************** Start Log For Day : '2022-09-30 05:13:58pm'**********
+************** END Log For Day : '2022-09-30 05:13:58pm'**********
+

@@ -1,0 +1,26 @@
+************** Start Log For Day : '2022-08-30 12:23:18pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-30 12:23:18pm'**********
+
+************** Start Log For Day : '2022-08-30 12:23:31pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-30' and '2022-08-30') && (UserId='7') 
+************** END Log For Day : '2022-08-30 12:23:31pm'**********
+************** Start Log For Day : '2022-08-30 12:23:40pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-01' and '2022-08-30') && (UserId='7') 
+************** END Log For Day : '2022-08-30 12:23:40pm'**********
+************** Start Log For Day : '2022-08-30 12:26:02pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-01' and '2022-08-30') && (UserId='7') 
+************** END Log For Day : '2022-08-30 12:26:02pm'**********
+************** Start Log For Day : '2022-08-30 12:26:13pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-30' and '2022-08-30') && (UserId='7') 
+************** END Log For Day : '2022-08-30 12:26:13pm'**********
+************** Start Log For Day : '2022-08-30 12:26:23pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-30' and '2022-08-30') && (UserId='7') 
+************** END Log For Day : '2022-08-30 12:26:23pm'**********
+
+************** Start Log For Day : '2022-08-30 12:26:57pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-30' and '2022-08-30') && (UserId='7') 
+************** END Log For Day : '2022-08-30 12:26:57pm'**********
+************** Start Log For Day : '2022-08-30 12:27:19pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-08-01' and '2022-08-30') && (UserId='7') 
+************** END Log For Day : '2022-08-30 12:27:19pm'**********

@@ -1,0 +1,6 @@
+************** Start Log For Day : '2022-08-29 06:26:29pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-08-29 06:26:29pm'**********
+
+delete from tblexpense where ID='1'
+

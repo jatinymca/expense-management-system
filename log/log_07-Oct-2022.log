@@ -1,0 +1,49 @@
+************** Start Log For Day : '2022-10-07 02:54:42pm'**********
+************** END Log For Day : '2022-10-07 02:54:42pm'**********
+************** Start Log For Day : '2022-10-07 02:57:06pm'**********
+************** END Log For Day : '2022-10-07 02:57:06pm'**********
+************** Start Log For Day : '2022-10-07 02:57:11pm'**********
+************** END Log For Day : '2022-10-07 02:57:11pm'**********
+************** Start Log For Day : '2022-10-07 02:57:11pm'**********
+select ID from tbluser where  Email='jatin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-10-07 02:57:11pm'**********
+************** Start Log For Day : '2022-10-07 02:57:38pm'**********
+************** END Log For Day : '2022-10-07 02:57:38pm'**********
+************** Start Log For Day : '2022-10-07 02:57:54pm'**********
+************** END Log For Day : '2022-10-07 02:57:54pm'**********
+
+************** Start Log For Day : '2022-10-07 02:57:56pm'**********
+************** END Log For Day : '2022-10-07 02:57:56pm'**********
+************** Start Log For Day : '2022-10-07 02:57:58pm'**********
+************** END Log For Day : '2022-10-07 02:57:58pm'**********
+************** Start Log For Day : '2022-10-07 02:58:04pm'**********
+************** END Log For Day : '2022-10-07 02:58:04pm'**********
+************** Start Log For Day : '2022-10-07 02:58:04pm'**********
+UPDATE `add_money` SET `Money`='56902' WHERE (UserId='7')
+************** END Log For Day : '2022-10-07 02:58:04pm'**********
+************** Start Log For Day : '2022-10-07 02:58:05pm'**********
+************** END Log For Day : '2022-10-07 02:58:05pm'**********
+
+************** Start Log For Day : '2022-10-07 02:58:10pm'**********
+************** END Log For Day : '2022-10-07 02:58:10pm'**********
+************** Start Log For Day : '2022-10-07 02:58:52pm'**********
+************** END Log For Day : '2022-10-07 02:58:52pm'**********
+insert into tblexpense(UserId,ExpenseDate,ExpenseItem,Opening_balance,ExpenseCost,Closing_balance,Quantity) value('7','2022-10-07','mouse','56902','250','56652','11')
+************** Start Log For Day : '2022-10-07 02:58:54pm'**********
+************** END Log For Day : '2022-10-07 02:58:54pm'**********
+
+************** Start Log For Day : '2022-10-07 02:59:15pm'**********
+************** END Log For Day : '2022-10-07 02:59:15pm'**********
+************** Start Log For Day : '2022-10-07 02:59:15pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='mouseS',`ExpenseCost`= '250',`Quantity`='11',`Closing_balance`='56652'  WHERE  `ID`= '42' 
+************** END Log For Day : '2022-10-07 02:59:15pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='mouseS',`ExpenseCost`= '250',`Quantity`='11',`Closing_balance`='56652'  WHERE  `ID`= '42' 
+************** Start Log For Day : '2022-10-07 02:59:24pm'**********
+************** END Log For Day : '2022-10-07 02:59:24pm'**********
+************** Start Log For Day : '2022-10-07 02:59:24pm'**********
+SELECT ExpenseItem,ExpenseCost,ExpenseDate,Quantity,Opening_balance,Closing_balance, month(ExpenseDate) as rptmonth,year(ExpenseDate) as rptyear FROM tblexpense  where (ExpenseDate BETWEEN '2022-10-07' and '2022-10-07') && (UserId='7') 
+************** END Log For Day : '2022-10-07 02:59:24pm'**********
+************** Start Log For Day : '2022-10-07 02:59:28pm'**********
+************** END Log For Day : '2022-10-07 02:59:28pm'**********
+************** Start Log For Day : '2022-10-07 02:59:34pm'**********
+************** END Log For Day : '2022-10-07 02:59:34pm'**********

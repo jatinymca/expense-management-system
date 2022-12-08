@@ -1,0 +1,19 @@
+************** Start Log For Day : '2022-09-27 05:19:45pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='notebook',`ExpenseCost`= '40',`Quantity`='2',`Closing_balance`='120'  WHERE  `ID`= '36' 
+************** END Log For Day : '2022-09-27 05:19:45pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='notebook',`ExpenseCost`= '40',`Quantity`='2',`Closing_balance`='120'  WHERE  `ID`= '36' 
+************** Start Log For Day : '2022-09-27 05:19:53pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='notebook',`ExpenseCost`= '120',`Quantity`='3',`Closing_balance`='40'  WHERE  `ID`= '36' 
+************** END Log For Day : '2022-09-27 05:19:53pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='notebook',`ExpenseCost`= '120',`Quantity`='3',`Closing_balance`='40'  WHERE  `ID`= '36' 
+************** Start Log For Day : '2022-09-27 05:20:38pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='notebook',`ExpenseCost`= '120',`Quantity`='4',`Closing_balance`='40'  WHERE  `ID`= '36' 
+************** END Log For Day : '2022-09-27 05:20:38pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='notebook',`ExpenseCost`= '120',`Quantity`='4',`Closing_balance`='40'  WHERE  `ID`= '36' 
+
+delete from tblexpense where ID='36'
+
+************** Start Log For Day : '2022-09-27 06:15:02pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='notebook',`ExpenseCost`= '340',`Quantity`='3',`Closing_balance`='160'  WHERE  `ID`= '37' 
+************** END Log For Day : '2022-09-27 06:15:02pm'**********
+UPDATE `tblexpense` SET  `ExpenseItem`='notebook',`ExpenseCost`= '340',`Quantity`='3',`Closing_balance`='160'  WHERE  `ID`= '37' 

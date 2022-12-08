@@ -1,0 +1,10 @@
+************** Start Log For Day : '2022-10-07 02:55:43pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='e10adc3949ba59abbe56e057f20f883e' 
+************** END Log For Day : '2022-10-07 02:55:43pm'**********
+************** Start Log For Day : '2022-10-07 02:55:48pm'**********
+select ID from tbladmin where  Email='admin@gmail.com' && Password='25d55ad283aa400af464c76d713c07ad' 
+************** END Log For Day : '2022-10-07 02:55:48pm'**********
+
+************** Start Log For Day : '2022-10-07 02:56:45pm'**********
+SELECT tbluser.ID as t1 ,tbluser.FullName as t3 ,ExpenseDate, month(ExpenseDate), year(ExpenseDate),SUM(ExpenseCost) as t2 from tbluser INNER JOIN tblexpense ON tbluser.ID = tblexpense.UserId  where (ExpenseDate BETWEEN '2022-09-02' and '2022-10-07')  GROUP BY FullName
+************** END Log For Day : '2022-10-07 02:56:45pm'**********
